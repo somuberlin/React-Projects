@@ -4,7 +4,7 @@
 
 A simple, interactive quiz application built with React and deployed on Netlify. Users can answer questions, see their score, and retake quizzes. Designed for learning, fun, and showcasing React skills.
 
-   #### 👉🏻 Click Here: https://react-jsquizapp.netlify.app/
+   #### 👉🏻 Click Here:   <a href="https://react-jsquizapp.netlify.app" target="_blank">React Quiz App </a>
 
    #### Tech Stack 👨🏻‍💻
 
