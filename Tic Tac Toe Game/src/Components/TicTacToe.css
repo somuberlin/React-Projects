@@ -42,6 +42,8 @@
 }
 
 .boxes{
+    display: flex;
+    flex-grow: 1;
     height: 175px;
     width: 175px;
     background: #1f3540;
@@ -77,3 +79,32 @@
     padding-right: 20px;
 }
 
+@media (max-width: 480px) {
+    .title {
+        font-size: 22px;
+    }
+
+    .board {
+        width: 320px;
+        height: auto;
+        flex-wrap: wrap;
+    }
+
+    .boxes {
+        width: 95px;
+        height: 95px;
+        margin: 5px;
+    }
+
+    .boxes img {
+        width: 60px;
+        margin: 18px;
+    }
+
+    .reset {
+        width: 110px;
+        height: 40px;
+        font-size: 16px;
+        margin-top: 20px;
+    }
+}
