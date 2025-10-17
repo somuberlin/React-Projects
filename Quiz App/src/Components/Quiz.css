@@ -72,6 +72,8 @@
 @media (max-width: 768px){
 .container{
     height: 525px;
+    width: auto;
+    margin: 20px;
 }
 }
 
@@ -87,3 +89,4 @@
         font-size: 18px;
     }
 }
+
