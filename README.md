@@ -42,7 +42,7 @@ A dynamic, responsive, and user-friendly quiz application built using React.js.T
       
       5. Option to restart and retake the quiz.
 
-<br/>
+
 ## 2. React Tic Tac Toe 🎮
 
 A modern, responsive, and interactive Tic Tac Toe Game built using React.js. Play the classic Xs and Os game right in your browser — beautifully designed with smooth animations and glowing hover effects!
