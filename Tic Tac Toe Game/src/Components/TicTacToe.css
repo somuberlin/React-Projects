@@ -79,6 +79,42 @@
     padding-right: 20px;
 }
 
+@media (max-width: 768px) {
+    .title {
+        font-size: 28px;
+    }
+
+    .title img {
+        width: 30px;
+        height: 30px;
+        padding: 10px;
+    }
+   
+
+    .board {
+        width: 420px;
+        height: 440px;
+    }
+
+    .boxes {
+        width: 130px;
+        height: 130px;
+        margin: 6px;
+    }
+
+    .boxes img {
+        width: 80px;
+        margin: 25px;
+    }
+
+    .reset {
+        width: 130px;
+        height: 45px;
+        font-size: 18px;
+        margin-top: -60px;
+    }
+}
+
 @media (max-width: 480px) {
     .title {
         font-size: 22px;
