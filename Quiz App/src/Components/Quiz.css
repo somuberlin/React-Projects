@@ -68,3 +68,22 @@
     background: #FFEBEB;
     border-color: #FF4A4A;
 }
+
+@media (max-width: 768px){
+.container{
+    height: 525px;
+}
+}
+
+@media (max-width: 480px){
+    .container{
+        width: auto;
+        margin: 20px;
+    }
+    .container h1{
+        font-size: 26px;
+    }
+    .container h2{
+        font-size: 18px;
+    }
+}
